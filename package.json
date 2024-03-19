@@ -1,0 +1,15 @@
+{
+  "name": "web-chat-app",
+  "version": "1.0.0",
+  "description": "This is a simple web chat application built with HTML, CSS, JavaScript, and WebSockets.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
